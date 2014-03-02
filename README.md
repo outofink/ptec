@@ -1,4 +1,4 @@
-ptec
+PTEC
 ====
 
 Python to Executable Converter
